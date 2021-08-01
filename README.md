@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ola! Eu sou Adamis
 
-<!--
-**adamis/adamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho como Desenvolvedor Java Sr em projetos Java EE
+- 🌱 Estou Estudando Spring Boot e Kotlin
+- ✨ Estou me empenhando em desenvolver algo util para desenvolvedores java, Projeto do momento: "Heimdall"
+- 💬 Contate-me pelo email: adamisstarling@gmail.com
+- 😄 Pronouns: ele/Dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/adamis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamis&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamis&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
